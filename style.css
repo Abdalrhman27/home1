@@ -41,3 +41,14 @@ img{
 .text{
     padding: 10px;
 }
+.attribution{
+    background-color: blue;
+    display: block;
+    width: 100%;
+    padding: 3px;
+    border-radius: 10px 10px 0 0 ;
+    color: #fff;
+}
+.attribution a{
+    color: white;
+}
