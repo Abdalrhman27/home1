@@ -1,0 +1,43 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+.attribution {
+    font-size: 11px; text-align: center; 
+}
+.attribution a {
+    color: hsl(228, 45%, 44%); 
+}
+.body{
+    background-color: #edf2f7;
+}
+.body{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    position: relative;
+    
+}
+.content{
+    padding: 10px;
+    background: #fff;
+    height: auto;
+    width: 350px;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    text-align: center;
+    border-radius: 10px;
+}
+img{
+    width: 100%;
+    border-radius: 10px;
+}
+.attribution{
+    position: absolute;
+    bottom: 0;
+}
+.text{
+    padding: 10px;
+}
